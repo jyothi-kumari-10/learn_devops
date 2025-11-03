@@ -1,2 +1,2 @@
 # learn_devops
-To run git commits
+To run git commands
